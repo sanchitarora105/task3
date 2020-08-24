@@ -1,0 +1,129 @@
+#testimonials{
+  text-align:center;
+  padding-top: 20px;
+}
+span{
+  color: orange;
+  width: 5px;
+}
+#contact{
+padding-top: 40px;
+text-align: left;
+padding-bottom: 20px;
+margin-right: 20px;
+background-color: #ebecf1;
+}
+.x15{
+  padding-left: 40px;
+}
+h3{
+  color: grey;
+}
+h1{
+
+  font-family: 'Nunito', sans-serif;
+}
+textarea {
+        resize: none;
+    }
+
+.x2{
+background-color: black;
+}
+.x1{
+  padding-top: 40px;
+padding-left: 30px;
+}
+.x3{
+  text-align: center;
+  width: 100%;
+ height: auto;
+ object-fit: cover;
+}
+.x4{
+  width: 100%;
+  height: auto;
+   object-fit: cover;
+}
+.x5{
+  text-align: center;
+   object-fit: cover;
+}
+.x6{
+   object-fit: cover;
+   width: 100%;
+   height: auto;
+   padding-top: 15px;
+}
+.x9{
+  height: 210px;
+  text-align: center;
+  margin-top: 30px;
+  padding-bottom: 10px;
+}
+.blog{
+  margin-top: 30px;
+}
+.x10{
+  text-align: center;
+  padding-top: 40px;
+margin-top: 30px;}
+.x11{
+  height: 250px;
+  padding-top: 50px;
+  text-align: center;
+}
+.x12{
+  text-align: center;
+
+  padding-bottom: 20px;
+}
+.blog{
+  padding-bottom: 20px;
+}
+.x13{
+  margin-top: 35px;
+  text-align: center;
+}
+.btn1{margin-top: 10px;
+  background-color: white;
+  border-radius: 28px;
+width: 120px;}
+.btn{
+  background-color: silver;
+width: 150px
+  border-radius: 18px;
+margin-bottom: 30px;}
+
+.btn2{
+  background-color: silver;
+border-radius: 18px;
+width: 100px;}
+footer{
+  font-size: 1rem;
+  text-align: center;
+}
+.x16{
+  background-color: black;
+}
+/* .x17{padding-bottom: 20px;
+  padding-top: 40px;
+padding-left: 60px;
+} */
+.x18{
+  position: absolute;
+  right: 40px;
+  color: grey;
+}
+.col-md-4{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.img9:hover{
+  transform: scale(1.1);
+  transition: 1s;
+}
+.x25{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
